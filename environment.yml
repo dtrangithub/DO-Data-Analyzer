@@ -7,5 +7,6 @@ dependencies:
   - pip
   - pip:
     - pandas
+    - pyqt5
     - pyqtgraph
     
